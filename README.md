@@ -1,7 +1,9 @@
 # 🌌 CHRONOS: UNIVERSAL DATA TERMINAL 🌌
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <a href="https://chronos-3178.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit App" />
+  </a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
@@ -10,7 +12,8 @@
 
 **CHRONOS** is a sleek, cyberpunk-themed universal data terminal built with Streamlit. It offers a suite of utility modules for data manipulation, time translation, random data generation, and simulated system monitoring, all wrapped in a custom, neon-drenched user interface. This application demonstrates advanced Streamlit customization techniques to create a unique and immersive user experience.
 
-**🚀 Access the Live App Here:** Chronos.streamlit.app
+**🚀 Access the Live App Here:** [https://chronos-3178.streamlit.app/](https://chronos-3178.streamlit.app/)
+
 ## 🚀 Features
 
 Chronos comes packed with several specialized modules:
